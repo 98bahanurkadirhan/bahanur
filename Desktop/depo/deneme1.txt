@@ -1,2 +1,4 @@
 topla(x,y)
    return x+y
+carpma(x,y)
+  return x*y
